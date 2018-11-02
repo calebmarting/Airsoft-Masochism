@@ -13,6 +13,10 @@ Currently, all other files in the "Python" file are for testing only.
 The arduino code sets the ESP8266 up as an HTTP server. This allows you to send it commands that turn on and off an LED (reused code) that also controls a relay.
 By controlling the duration that the relay is on, single shots, burst, or more can be fired.
 
+## Build one
+
+I included a wiring diagram in the files, follow that. It should theoretically work for any airsoft gun that runs on DC, as they are basically just switches. If you need any more help please message me.
+
 # PLEASE DO NOT TRY WHAT YOU SEE HERE UNLESS YOU KNOW WHAT YOU ARE DOING
 
 I am not responsible for any harm this code/guide may cause. I took the risk of making it knowing full well that there is serious risk of injury, and that major precautions should be put in place to emphasize safety.
